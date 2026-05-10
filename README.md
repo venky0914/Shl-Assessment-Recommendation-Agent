@@ -37,6 +37,7 @@ This project scrapes assessment data from the SHL product catalog, creates seman
 shl-assessment-agent/
 │
 ├── app/
+│   ├── __init__.py
 │   ├── main.py
 │   ├── agent.py
 │   ├── retriever.py
